@@ -1,5 +1,4 @@
-# tutr
-I am Kishna
-
-
-learn-git
+#tutr
+bwahhahaaa.
+<br>
+main hoon Kishna 
